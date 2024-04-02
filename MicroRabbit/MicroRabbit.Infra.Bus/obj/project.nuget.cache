@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0xLCS+Jx8QwoGiCXeFyoA4z377rN9SUpfp9oy3Nf7fhueZaopZ8jYHpZ1KDVu1HxpaYs3+ddqMqa0ivy4rL9XA==",
+  "success": true,
+  "projectFilePath": "/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj",
+  "expectedPackageFiles": [
+    "/Users/sonth/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/sonth/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/sonth/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/sonth/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/sonth/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/sonth/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/sonth/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
