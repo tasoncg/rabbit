@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+        "projectName": "MicroRabbit.Domain.Core",
+        "projectPath": "/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+        "packagesPath": "/Users/sonth/.nuget/packages/",
+        "outputPath": "/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sonth/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

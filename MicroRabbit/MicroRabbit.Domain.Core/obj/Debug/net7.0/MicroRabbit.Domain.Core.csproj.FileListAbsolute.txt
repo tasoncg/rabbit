@@ -1,0 +1,12 @@
+/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/bin/Debug/net7.0/MicroRabbit.Domain.Core.deps.json
+/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/bin/Debug/net7.0/MicroRabbit.Domain.Core.dll
+/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/bin/Debug/net7.0/MicroRabbit.Domain.Core.pdb
+/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/net7.0/MicroRabbit.Domain.Core.csproj.AssemblyReference.cache
+/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/net7.0/MicroRabbit.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/net7.0/MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/net7.0/MicroRabbit.Domain.Core.AssemblyInfo.cs
+/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/net7.0/MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/net7.0/MicroRabbit.Domain.Core.dll
+/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/net7.0/refint/MicroRabbit.Domain.Core.dll
+/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/net7.0/MicroRabbit.Domain.Core.pdb
+/Users/sonth/Documents/Code/rabbit/MicroRabbit/MicroRabbit.Domain.Core/obj/Debug/net7.0/ref/MicroRabbit.Domain.Core.dll

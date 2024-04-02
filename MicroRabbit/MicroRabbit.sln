@@ -3,20 +3,36 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CC7712AB-C117-492F-BFA3-D635D7152D91}"
-	ProjectSection(SolutionItems) = preProject
-		Config.txt = Config.txt
-	EndProjectSection
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{2D81E743-4CC2-4289-B46E-A67B32368AC5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Bus", "Infra.Bus", "{B9B7A5C6-F0C6-45FE-9691-F1E175E3A742}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.IoC", "Infra.IoC", "{484438A3-9825-4AC8-91F2-4E29BB300C45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{C8644560-9AD1-4B96-992E-362A09ECF273}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{C76DFE04-3E81-489E-9E03-F91E67231C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Domain.Core", "MicroRabbit.Domain.Core\MicroRabbit.Domain.Core.csproj", "{EE671D7E-95C1-427D-A517-655BF1DD42D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE671D7E-95C1-427D-A517-655BF1DD42D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE671D7E-95C1-427D-A517-655BF1DD42D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE671D7E-95C1-427D-A517-655BF1DD42D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE671D7E-95C1-427D-A517-655BF1DD42D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {87DDA237-3C05-48ED-AA12-8353F612B257}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EE671D7E-95C1-427D-A517-655BF1DD42D0} = {2D81E743-4CC2-4289-B46E-A67B32368AC5}
 	EndGlobalSection
 EndGlobal
